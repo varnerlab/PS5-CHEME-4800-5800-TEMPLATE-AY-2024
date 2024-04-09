@@ -1,6 +1,5 @@
 # Problem Set 5 (PS5): Solving the Assignment Problem
-This problem set will familiarize students with the assignment problem and its solution using [Bipartite Graphs](https://en.wikipedia.org/wiki/Bipartite_graph) and [Linear Programming](https://en.wikipedia.org/wiki/Linear_programming).  
-* For background on the assignment problem, please refer to the [online class notes](https://varnerlab.github.io/CHEME-4800-5800-ComputingBook/unit-3-learning/lp.html#minimum-flow-problems).
+This problem set will familiarize students with the assignment problem and its solution using [Bipartite Graphs](https://en.wikipedia.org/wiki/Bipartite_graph) and [Linear Programming](https://en.wikipedia.org/wiki/Linear_programming). For background on the assignment problem, please refer to the [online class notes](https://varnerlab.github.io/CHEME-4800-5800-ComputingBook/unit-3-learning/lp.html#minimum-flow-problems).
 
 ## Tasks
 1. Solve the assignment problem encoded in the [Bipartite.edgelist](data/Bipartite.edgelist) using [Linear Programming](https://en.wikipedia.org/wiki/Linear_programming). 
