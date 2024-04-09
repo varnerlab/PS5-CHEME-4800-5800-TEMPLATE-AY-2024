@@ -5,6 +5,6 @@ This problem set will familiarize students with the assignment problem and its s
 ## Tasks
 1. Solve the assignment problem encoded in the [Bipartite.edgelist](data/Bipartite.edgelist) using [Linear Programming](https://en.wikipedia.org/wiki/Linear_programming). 
     - Implement the missing codes in the [Factory.jl](src/Factory.jl) and [Solve.jl](src/Solve.jl) files. To solve the [Linear Programming](https://en.wikipedia.org/wiki/Linear_programming) problem, use the [JuMP package](https://jump.dev/JuMP.jl/stable/) and the [GLPK solver](https://jump.dev/GLPK.jl/stable/). Solve the assignment problem with `required = 3`. Make sure to include a check to ensure the solver's convergence.
-    - Implement a test suite in the `testme_task_1.jl` file to test your implementation. The test suite should compare your implementation's output with the expected output; see the `testme_task_1.jl` file.
-    - Add missing comments. Please look at the [readedgesfile function](src/Files.jl) file for an example of what to include in your comments.
+    - To test your implementation, implement a test suite in the `testme_task_1.jl` file. The test suite should compare your implementation's output with the expected output; see the `testme_task_1.jl` file.
+    - Add missing comments. For an example of what to include in your comments, please look at the [readedgesfile function](src/Files.jl) file.
 
